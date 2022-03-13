@@ -4,8 +4,7 @@
   I am <b>Web Developer</b> 
 </p>
 <p align='center'>
-  <a href="https://github.com/ibrahimalzamel">
-  <img src="https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white" />
+
   </a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/ElzamilIbrahim?t=BuqoDU0bbapSWd3CpgFrFw&s=08">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
