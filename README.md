@@ -8,6 +8,7 @@
 <a href="https://twitter.com/ElzamilIbrahim?t=BuqoDU0bbapSWd3CpgFrFw&s=08">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a> &nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/ibrahim-alzamel-366507207/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
@@ -16,11 +17,11 @@
  <img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />
 </a>&nbsp;&nbsp;&nbsp;
 
- <a href="#">
+ <a href="#https://github.com/ibrahimalzamel">
  <img src="https://img.shields.io/badge/ibrahimalzamel-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" />
  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="#">
+  <a href="#https://github.com/ibrahimalzamel">
   <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ibrahimalzamel&countColor=%237B1E7A" />
   </a>
 
