@@ -24,6 +24,7 @@
   <a href="https://github.com/ibrahimalzamel">
   <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ibrahimalzamel&countColor=%237B1E7A" />
   </a>
+<a href="https://github.com/ahmet-cetinkaya"><img src="https://api.visitorbadge.io/api/VisitorHit?user=ahmet-cetinkaya&countColor=%237B1E7A" /></a>
 
 </p>
 
