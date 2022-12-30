@@ -21,9 +21,6 @@
  <img src="https://img.shields.io/badge/ibrahimalzamel-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" />
  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/ibrahimalzamel">
-  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ibrahimalzamel&countColor=%237B1E7A" />
-  </a>
 <a href="https://github.com/ibrahimalzamel"><img src="https://api.visitorbadge.io/api/VisitorHit?user=ibrahimalzamel&countColor=%237B1E7A" /></a>
 
 </p>
